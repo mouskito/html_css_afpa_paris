@@ -1,3 +1,6 @@
+body{
+	background: yellow;
+}
 table{
 	border-collapse: collapse;
 	width: 800px;
@@ -6,9 +9,4 @@ table{
 
 th{
 	background: #E72F95;
-}
-
-td{
-	border: solid 1px;
-	text-align: center;
 }
