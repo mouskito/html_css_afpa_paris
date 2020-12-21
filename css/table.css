@@ -1,0 +1,14 @@
+table{
+	border-collapse: collapse;
+	width: 800px;
+	height: 500px;
+}
+
+th{
+	background: #E72F95;
+}
+
+td{
+	border: solid 1px;
+	text-align: center;
+}

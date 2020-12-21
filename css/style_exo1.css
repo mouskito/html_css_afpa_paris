@@ -1,0 +1,9 @@
+p{
+	font-size: 20px;
+	font-family: arial;
+	font-style: italic;
+
+	border:solid 1px;
+	border-radius: 20px;
+	padding: 5px;
+}

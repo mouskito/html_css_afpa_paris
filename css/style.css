@@ -1,0 +1,19 @@
+header{
+	background: green;
+}
+
+article{
+	background: yellow;
+}
+
+p {
+	background: blue;
+}
+
+.paragh{
+	background: red;
+}
+
+#p1{
+	color: orange;
+}
